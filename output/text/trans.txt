@@ -1,0 +1,1 @@
+{"src":"科大讯飞是中国最大的语音技术提供商。","dst":" IFLYTEK is the largest voice technology provider in China.","wb":10,"we":2960,"is_final":1}
